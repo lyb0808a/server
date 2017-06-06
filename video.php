@@ -44,8 +44,7 @@ $w=file_get_contents($geturl);
 
 $cv=json_decode($w); 
 
-print_r($cv);
-exit;
+
 //echo $cv[Download][1][url];
 function object_array($array)
 {
