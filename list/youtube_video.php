@@ -177,7 +177,7 @@ function videoListDisplayError()
 	
 </ul>
 
-<a href="http://ytchina.cf" target="_blank" class="btn btn-danger btn-lg">开发者官网</a>
+<a href="" target="_blank" class="btn btn-danger btn-lg">开发者官网</a>
 
 
 
